@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
 
 # AI-Driven Demand Forecasting & Inventory Optimization
 
@@ -6,192 +6,274 @@
 
 ### CareerOS Enterprise Decision Engineering Framework (CEDEF)
 
+*Demonstrating how Enterprise Decision Engineering transforms enterprise intelligence into trustworthy operational and executive decisions.*
+
+<br>
+
+<img src="images/design-components/CDC-004-framework_in_action_showcase.png" width="100%">
+
+<br>
+
+**CareerOS Reference Implementation Portal**
+
+Official Enterprise Solution Showcase
+
 Enterprise AI • Predictive Intelligence • Inventory Optimization • Executive Decision Support
 
-</p>
+</div>
 
 ---
 
-# Welcome
+# Executive Summary
 
-This repository demonstrates how the **CareerOS Enterprise Decision Engineering Framework (CEDEF)** is applied to solve a real-world retail inventory planning problem.
+The **AI-Driven Demand Forecasting & Inventory Optimization** repository is the official retail reference implementation of the **CareerOS Enterprise Decision Engineering Framework (CEDEF).**
 
-Rather than ending with demand forecasts or machine learning models, this implementation demonstrates how Enterprise AI can be systematically transformed into operational planning, inventory intelligence, executive reporting, and organizational decision support.
+Rather than demonstrating machine learning in isolation, this implementation illustrates how Enterprise Decision Engineering systematically transforms enterprise data into governed intelligence, operational planning, inventory optimization, and trustworthy executive decision support.
 
-It serves as the **Official Retail Decision Intelligence Reference Implementation** for the CareerOS Enterprise Decision Engineering Framework.
+The repository serves as a practical demonstration of how the principles introduced in the CareerOS Framework can be applied to solve real-world enterprise challenges.
+
+It bridges the gap between enterprise architecture and enterprise implementation.
+
+Visitors will discover how enterprise data progresses through governed engineering processes, predictive intelligence, decision intelligence, and executive decision support to create measurable organizational value.
 
 ---
 
 # Business Challenge
 
-Retail organizations continuously face one critical question:
+Retail organizations continuously face one critical question.
 
 > **How much inventory should be ordered to satisfy customer demand while minimizing cost, inventory risk, and operational uncertainty?**
 
-Traditional analytics projects often conclude with predictive models.
+Traditional analytics initiatives often conclude with predictive models or demand forecasts.
 
-This implementation demonstrates how those predictions become actionable enterprise decisions through a governed engineering methodology.
+Enterprise Decision Engineering extends that journey.
+
+Predictions become operational planning.
+
+Operational planning becomes inventory intelligence.
+
+Inventory intelligence becomes executive decision support.
+
+The objective is not simply to forecast demand.
+
+The objective is to engineer better business decisions.
+
+---
+
+<div align="center">
+
+<img src="images/signature-visuals/SV-001-enterprise_decision_intelligence_journey.png" width="90%">
+
+### Signature Visual SV-001
+
+**Enterprise Decision Intelligence Journey**
+
+*Illustrates the progressive transformation of enterprise data into trustworthy executive decision intelligence through the CareerOS Enterprise Decision Engineering Framework.*
+
+</div>
 
 ---
 
 # Solution Overview
 
-The implementation follows the CareerOS Enterprise Decision Engineering Framework to progressively transform enterprise data into executive decision intelligence.
+The CareerOS Enterprise Decision Engineering Framework provides the engineering methodology that enables this transformation.
 
-<p align="center">
+Rather than organizing analytics as disconnected activities, the framework integrates enterprise data, business intelligence, artificial intelligence, predictive intelligence, decision intelligence, and executive decision support into one governed enterprise engineering lifecycle.
 
-<img src="images/framework/figure_01_framework_architecture.png"
-     alt="CareerOS Enterprise Decision Engineering Framework"
-     width="1100">
-
-</p>
-
-The implementation progresses through six integrated enterprise intelligence layers:
-
-- Enterprise Data Engineering
-- Business Intelligence Engineering
-- Enterprise AI Capability Engineering
-- Predictive Intelligence Engineering
-- Decision Intelligence Engineering
-- Executive Decision Support
+The result is an enterprise solution that not only predicts future demand but also supports inventory planning, executive reporting, operational governance, and strategic organizational decision-making.
 
 ---
 
-# Enterprise Workflow
+<div align="center">
 
-The implementation follows a structured enterprise workflow.
+<img src="images/signature-visuals/SV-002-enterprise_decision_engineering_architecture.png" width="90%">
 
-```text
-Retail Transaction Data
-        │
-        ▼
-Enterprise Data Engineering
-        │
-        ▼
-Business Intelligence
-        │
-        ▼
-Enterprise AI
-        │
-        ▼
-Demand Forecasting
-        │
-        ▼
-Inventory Planning
-        │
-        ▼
-Executive Decision Support
-```
+### Signature Visual SV-002
 
-Each stage contributes enterprise artifacts that support the subsequent intelligence layer.
+**Enterprise Decision Engineering Architecture**
+
+*Illustrates the six integrated enterprise capabilities that systematically transform enterprise intelligence into trustworthy executive decision-making.*
+
+</div>
+
+# Technology Stack
+
+This reference implementation combines enterprise data engineering, business intelligence, artificial intelligence, predictive analytics, and executive decision support technologies into a unified enterprise engineering solution.
+
+Rather than selecting technologies in isolation, every component has been chosen to support a specific capability within the CareerOS Enterprise Decision Engineering Framework.
 
 ---
 
-# Enterprise Technology Ecosystem
+## Enterprise Data Engineering
 
-### Programming
+Building trusted enterprise data foundations.
+
+**Technologies**
 
 - Python
 - SQL
-
-### Data Engineering
-
 - Pandas
 - NumPy
 
-### Machine Learning
+---
+
+## Business Intelligence & Analytics
+
+Transforming enterprise information into actionable business insight.
+
+**Technologies**
+
+- Power BI
+- Tableau
+- Executive KPI Engineering
+- Enterprise Reporting
+
+---
+
+## Enterprise Artificial Intelligence
+
+Engineering intelligent enterprise capabilities for forecasting and decision support.
+
+**Technologies**
 
 - Scikit-learn
 - XGBoost
 - TensorFlow
 - Statsmodels
 
-### Forecasting
+---
+
+## Predictive Intelligence
+
+Forecasting future enterprise conditions to reduce operational uncertainty.
+
+**Techniques**
 
 - ARIMA
 - Random Forest
 - Linear Regression
 - LSTM
+- Time-Series Forecasting
 
-### Business Intelligence
+---
 
-- Power BI
-- Tableau
+## Enterprise Data Platforms
 
-### Enterprise Platforms
+Providing secure, scalable enterprise data infrastructure.
 
-- AWS
+**Platforms**
+
 - PostgreSQL
 - MySQL
 - MongoDB
+- AWS
 - Git
+- GitHub
 
 ---
 
 # Repository Organization
 
+The repository has been organized according to the CareerOS engineering philosophy, separating enterprise assets into reusable engineering components.
+
 | Directory | Purpose |
 |-----------|---------|
-| `data/` | Enterprise datasets |
-| `documentation/` | Supporting documentation |
-| `images/` | Figures and dashboards |
-| `notebooks/` | Enterprise Engineering Packages |
-| `reports/` | Executive analytical reports |
-| `src/` | Supporting source code |
-| `presentations/` | Executive presentations |
+| `data/` | Enterprise datasets used throughout the engineering lifecycle |
+| `documentation/` | Engineering documentation, methodology, and supporting publications |
+| `images/` | Design components, Signature Visuals, dashboards, and architecture illustrations |
+| `notebooks/` | Engineering Packages, analytical notebooks, and experimentation |
+| `reports/` | Executive reports, dashboards, and decision-support artifacts |
+| `src/` | Enterprise engineering source code |
+| `presentations/` | Executive briefings and presentation materials |
 
 ---
 
-# Executive Outcomes
+# Business Outcomes
 
-This implementation demonstrates how Enterprise AI can support:
+The objective of this implementation extends well beyond demand forecasting.
+
+The solution has been engineered to improve enterprise decision-making by transforming predictive intelligence into operational action.
+
+The implementation demonstrates how Enterprise Decision Engineering supports:
 
 - 📈 Demand Forecasting
 - 📦 Inventory Optimization
-- 🤖 Enterprise AI
-- 📊 Business Intelligence
 - 🧠 Decision Intelligence
+- 📊 Business Intelligence
+- 🤖 Enterprise Artificial Intelligence
 - 👔 Executive Decision Support
+- 🛡 Enterprise Governance
+- 📈 Organizational Performance
 
-The implementation culminates in executive dashboards supporting inventory planning, operational decision-making, and strategic governance.
+Ultimately, the implementation delivers governed enterprise intelligence capable of supporting inventory planning, operational management, executive reporting, and strategic organizational decision-making.
 
 ---
 
-# Dashboard Gallery
+# Executive Deliverables
 
-The implementation produces multiple executive decision artifacts, including:
+The reference implementation produces multiple enterprise decision artifacts that support different levels of organizational decision-making.
 
-- Enterprise Forecast Dashboard
+These include:
+
+- Executive Forecast Dashboard
 - Inventory Planning Dashboard
 - Economic Decision Dashboard
 - Executive Decision Dashboard
+- Enterprise KPI Dashboard
 - Framework Certification Dashboard
 
-Dashboard images and executive reports will continue to be published as the framework evolves.
+Each deliverable contributes toward transforming enterprise intelligence into actionable executive decision support.
 
 ---
 
-# Learn More
+<div align="center">
 
-This implementation is part of the broader **CareerOS Enterprise Decision Engineering Framework (CEDEF)** ecosystem.
+### Enterprise Engineering in Action
 
-## 📘 Framework Portal
+*From enterprise data to executive decisions.*
 
-Explore the framework, enterprise architecture, and executive overview.
+</div>
 
-https://github.com/camunyah/careeros-enterprise-decision-engineering-framework
+# Dashboard Gallery
+
+Enterprise Decision Engineering produces more than analytical models.
+
+It produces governed executive decision artifacts that support operational planning, executive reporting, and strategic organizational decision-making.
+
+As the reference implementation continues to evolve, this repository will include a growing collection of enterprise dashboards illustrating how intelligence is transformed into actionable business outcomes.
+
+Planned dashboard publications include:
+
+- 📈 Enterprise Forecast Dashboard
+- 📦 Inventory Planning Dashboard
+- 💰 Economic Decision Dashboard
+- 👔 Executive Decision Dashboard
+- 📊 Enterprise KPI Dashboard
+- 📑 Framework Certification Dashboard
+
+Each dashboard has been designed to support a specific level of enterprise decision-making while remaining fully aligned with the CareerOS Enterprise Decision Engineering Framework.
 
 ---
 
-## 🏠 Executive Portal
+# Explore the CareerOS Ecosystem
 
-Meet the architect behind CareerOS and explore the broader professional vision.
+This repository represents one implementation within the broader CareerOS ecosystem.
 
-https://github.com/camunyah
+Together, the CareerOS repositories provide a complete enterprise engineering journey—from executive vision, to enterprise framework, to real-world implementation.
+
+| Repository | Purpose |
+|------------|---------|
+| 🏠 **Executive Portal** | Meet the architect and explore the CareerOS vision |
+| 📘 **Framework Portal** | Discover the CareerOS Enterprise Decision Engineering Framework (CEDEF) |
+| 🛍 **Reference Implementation Portal** | Experience Enterprise Decision Engineering through a practical enterprise solution |
+
+Future repositories will continue expanding the CareerOS ecosystem with additional enterprise implementations, executive publications, engineering standards, intelligent software, and educational resources.
 
 ---
 
-# Future Development
+# Future Roadmap
+
+The CareerOS Enterprise Decision Engineering Framework has been intentionally designed as an industry-independent enterprise engineering discipline.
 
 Future reference implementations will extend the framework into additional domains, including:
 
@@ -200,18 +282,24 @@ Future reference implementations will extend the framework into additional domai
 - 🏛 Government Decision Intelligence
 - 🏭 Manufacturing Decision Intelligence
 - 🎓 Higher Education Decision Intelligence
+- ⚡ Energy Decision Intelligence
+- 🚚 Supply Chain Decision Intelligence
+
+Each implementation will demonstrate how Enterprise Decision Engineering can be adapted to solve complex enterprise challenges while preserving the same governed engineering principles.
 
 ---
 
 # License
 
-Released under the MIT License.
+This repository is released under the **MIT License**.
+
+You are welcome to explore, learn from, and build upon this work in accordance with the terms of the license.
 
 ---
 
 # Citation
 
-If you reference this implementation in research, publications, or professional work, please cite:
+If you reference this implementation in research, publications, presentations, or professional work, please cite:
 
 **Chuck A. Munyah-Asaah**
 
@@ -221,11 +309,15 @@ Official Retail Decision Intelligence Reference Implementation
 
 CareerOS Enterprise Decision Engineering Framework (CEDEF)
 
-Reference Standard Version 1.0
+Version 1.0
+
+2026
 
 ---
 
-## CareerOS Enterprise Decision Engineering Philosophy
+<div align="center">
+
+# CareerOS Enterprise Decision Engineering Philosophy
 
 > **From Data to Decisions.**
 
@@ -234,3 +326,17 @@ Reference Standard Version 1.0
 > **From Engineering to Enterprise Value.**
 
 > **From Innovation to Organizational Transformation.**
+
+<br>
+
+---
+
+### CareerOS™
+
+### Enterprise Decision Engineering Framework (CEDEF)
+
+**Official Retail Decision Intelligence Reference Implementation**
+
+**Version 1.0**
+
+</div>
