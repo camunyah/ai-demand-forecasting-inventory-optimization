@@ -273,33 +273,85 @@ Together, these dashboards illustrate how Enterprise Decision Engineering transf
 
 # Explore the CareerOS Ecosystem
 
-This implementation is one component of the broader CareerOS ecosystem.
+This reference implementation represents the practical application of the **CareerOS Enterprise Decision Engineering Framework (CEDEF).**
 
-Together, the CareerOS repositories guide visitors through a complete enterprise engineering journey:
+Together, the CareerOS repositories provide a complete enterprise engineering journey.
 
-Executive Vision
+<div align="center">
 
-↓
-
-Enterprise Framework
+**Executive Vision**
 
 ↓
 
-Enterprise Implementation
+**Enterprise Framework**
 
 ↓
 
-Organizational Transformation
+**Enterprise Implementation**
 
-Together, the CareerOS repositories provide a complete enterprise engineering journey—from executive vision, to enterprise framework, to real-world implementation.
+↓
+
+**Enterprise Knowledge**
+
+↓
+
+**Organizational Transformation**
+
+</div>
+
+---
+
+## 🏠 Executive Portal
+
+Meet the architect behind CareerOS and explore the vision driving Enterprise Decision Engineering.
+
+➡️ https://github.com/camunyah
+
+---
+
+## 📘 Framework Portal
+
+Explore the official CareerOS Enterprise Decision Engineering Framework, including its philosophy, architecture, Signature Visuals, and engineering methodology.
+
+➡️ https://github.com/camunyah/careeros-enterprise-decision-engineering-framework
+
+---
+
+## 📄 CareerOS Publications
+
+Explore the official publication library supporting Enterprise Decision Engineering.
+
+Current publications include:
+
+### Executive White Papers
+
+- ✅ **WP-001 — Enterprise Decision Engineering**
+  *Why Enterprise Intelligence Needs an Engineering Discipline*
+
+### Preview Editions
+
+- ✅ **PE-001 — CareerOS Enterprise Decision Engineering Framework**
+  *Preview Edition*
+
+### Reference Standards
+
+- 🚧 **RS-001 — CareerOS Enterprise Decision Engineering Framework**
+  *Reference Standard (In Development)*
+
+➡️ https://github.com/camunyah/careeros-publications
+
+---
+
+## Enterprise Engineering Ecosystem
 
 | Repository | Purpose |
 |------------|---------|
 | 🏠 **Executive Portal** | Meet the architect and explore the CareerOS vision |
-| 📘 **Framework Portal** | Discover the CareerOS Enterprise Decision Engineering Framework (CEDEF) |
-| 🛍 **Reference Implementation Portal** | Experience Enterprise Decision Engineering through a practical enterprise solution |
+| 📘 **Framework Portal** | Understand the Enterprise Decision Engineering Framework |
+| 🛍 **Reference Implementation Portal** | Experience Enterprise Decision Engineering in practice |
+| 📄 **CareerOS Publications** | Executive White Papers, Preview Editions, and Reference Standards |
 
-Future repositories will continue expanding the CareerOS ecosystem with additional enterprise implementations, executive publications, engineering standards, intelligent software, and educational resources.
+Together these repositories establish a complete enterprise engineering ecosystem spanning executive vision, framework architecture, practical implementation, and a growing body of professional knowledge.
 
 ---
 
@@ -307,7 +359,7 @@ Future repositories will continue expanding the CareerOS ecosystem with addition
 
 The CareerOS Enterprise Decision Engineering Framework has been intentionally designed as an industry-independent enterprise engineering discipline.
 
-Future reference implementations will extend the framework into additional domains, including:
+Future reference implementations will extend Enterprise Decision Engineering into additional domains, including:
 
 - 🏥 Healthcare Decision Intelligence
 - 🏦 Banking Decision Intelligence
@@ -318,6 +370,8 @@ Future reference implementations will extend the framework into additional domai
 - 🚚 Supply Chain Decision Intelligence
 
 Each implementation will demonstrate how Enterprise Decision Engineering can be adapted to solve complex enterprise challenges while preserving the same governed engineering principles.
+
+As the CareerOS ecosystem continues to evolve, additional enterprise software, executive publications, engineering standards, educational resources, and intelligent decision systems will further expand the discipline.
 
 ---
 
