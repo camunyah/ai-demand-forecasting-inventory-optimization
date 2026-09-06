@@ -209,7 +209,7 @@ Ultimately, the implementation delivers governed enterprise intelligence capable
 
 ---
 
-# Executive Deliverables
+# Enterprise Deliverables
 
 The reference implementation produces multiple enterprise decision artifacts that support different levels of organizational decision-making.
 
@@ -238,11 +238,25 @@ Each deliverable contributes toward transforming enterprise intelligence into ac
 
 Enterprise Decision Engineering produces more than analytical models.
 
-It produces governed executive decision artifacts that support operational planning, executive reporting, and strategic organizational decision-making.
+It produces governed enterprise decision artifacts that support operational planning, executive reporting, and strategic organizational decision-making.
 
-As the reference implementation continues to evolve, this repository will include a growing collection of enterprise dashboards illustrating how intelligence is transformed into actionable business outcomes.
+The following illustration represents the executive dashboard ecosystem produced by the CareerOS Enterprise Decision Engineering Framework.
 
-Planned dashboard publications include:
+<div align="center">
+
+<img src="images/design-components/CDC-009-executive_dashboard_showcase.png" width="95%">
+
+### CDC-009 — Executive Dashboard Showcase
+
+*Illustrates the integrated executive dashboards that transform enterprise intelligence into actionable operational, tactical, and strategic decision support.*
+
+</div>
+
+---
+
+As the reference implementation continues to evolve, this repository will publish a growing collection of enterprise dashboards demonstrating how governed enterprise intelligence becomes measurable organizational value.
+
+Current and planned executive dashboards include:
 
 - 📈 Enterprise Forecast Dashboard
 - 📦 Inventory Planning Dashboard
@@ -251,13 +265,31 @@ Planned dashboard publications include:
 - 📊 Enterprise KPI Dashboard
 - 📑 Framework Certification Dashboard
 
-Each dashboard has been designed to support a specific level of enterprise decision-making while remaining fully aligned with the CareerOS Enterprise Decision Engineering Framework.
+Each dashboard has been engineered to support a specific level of enterprise decision-making while remaining fully aligned with the CareerOS Enterprise Decision Engineering Framework.
+
+Together, these dashboards illustrate how Enterprise Decision Engineering transforms enterprise data into trusted executive intelligence capable of supporting operational planning, executive governance, organizational performance, and strategic decision-making.
 
 ---
 
 # Explore the CareerOS Ecosystem
 
-This repository represents one implementation within the broader CareerOS ecosystem.
+This implementation is one component of the broader CareerOS ecosystem.
+
+Together, the CareerOS repositories guide visitors through a complete enterprise engineering journey:
+
+Executive Vision
+
+↓
+
+Enterprise Framework
+
+↓
+
+Enterprise Implementation
+
+↓
+
+Organizational Transformation
 
 Together, the CareerOS repositories provide a complete enterprise engineering journey—from executive vision, to enterprise framework, to real-world implementation.
 
