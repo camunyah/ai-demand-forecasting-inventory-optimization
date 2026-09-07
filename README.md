@@ -190,7 +190,7 @@ The repository has been organized according to the CareerOS engineering philosop
 
 # Business Outcomes
 
-The objective of this implementation extends well beyond demand forecasting.
+This reference implementation demonstrates how Enterprise Decision Engineering transforms predictive intelligence into trustworthy operational and executive decision support.
 
 The solution has been engineered to improve enterprise decision-making by transforming predictive intelligence into operational action.
 
@@ -256,7 +256,7 @@ The following illustration represents the executive dashboard ecosystem produced
 
 As the reference implementation continues to evolve, this repository will publish a growing collection of enterprise dashboards demonstrating how governed enterprise intelligence becomes measurable organizational value.
 
-Current and planned executive dashboards include:
+Current and planned executive decision artifacts include:
 
 - 📈 Enterprise Forecast Dashboard
 - 📦 Inventory Planning Dashboard
@@ -305,40 +305,29 @@ Together, the CareerOS repositories provide a complete enterprise engineering jo
 
 Meet the architect behind CareerOS and explore the vision driving Enterprise Decision Engineering.
 
-➡️ https://github.com/camunyah
+➡️ **[Visit the Executive Portal](https://github.com/camunyah)**
 
 ---
 
 ## 📘 Framework Portal
 
-Explore the official CareerOS Enterprise Decision Engineering Framework, including its philosophy, architecture, Signature Visuals, and engineering methodology.
+Explore the official CareerOS Enterprise Decision Engineering Framework, including its philosophy, architecture, Signature Visuals, engineering methodology, and reference publications.
 
-➡️ https://github.com/camunyah/careeros-enterprise-decision-engineering-framework
+➡️ **[CareerOS Enterprise Decision Engineering Framework](https://github.com/camunyah/careeros-enterprise-decision-engineering-framework)**
 
 ---
 
 ## 📄 CareerOS Publications
 
-Explore the official publication library supporting Enterprise Decision Engineering.
+Explore the official CareerOS publication library supporting Enterprise Decision Engineering.
 
-Current publications include:
+### Featured Publication
 
-### Executive White Papers
+**WP-001 — Enterprise Decision Engineering**
 
-- ✅ **WP-001 — Enterprise Decision Engineering**
-  *Why Enterprise Intelligence Needs an Engineering Discipline*
+*Why Enterprise Intelligence Needs an Engineering Discipline*
 
-### Preview Editions
-
-- ✅ **PE-001 — CareerOS Enterprise Decision Engineering Framework**
-  *Preview Edition*
-
-### Reference Standards
-
-- 🚧 **RS-001 — CareerOS Enterprise Decision Engineering Framework**
-  *Reference Standard (In Development)*
-
-➡️ https://github.com/camunyah/careeros-publications
+➡️ **[CareerOS Publications Repository](https://github.com/camunyah/careeros-publications)**
 
 ---
 
@@ -348,10 +337,10 @@ Current publications include:
 |------------|---------|
 | 🏠 **Executive Portal** | Meet the architect and explore the CareerOS vision |
 | 📘 **Framework Portal** | Understand the Enterprise Decision Engineering Framework |
-| 🛍 **Reference Implementation Portal** | Experience Enterprise Decision Engineering in practice |
-| 📄 **CareerOS Publications** | Executive White Papers, Preview Editions, and Reference Standards |
+| 🛍 **Reference Implementation Portal** | Experience Enterprise Decision Engineering through practical enterprise implementations |
+| 📄 **CareerOS Publications** | Executive White Papers and executive thought leadership |
 
-Together these repositories establish a complete enterprise engineering ecosystem spanning executive vision, framework architecture, practical implementation, and a growing body of professional knowledge.
+Together these repositories establish the official CareerOS Enterprise Decision Engineering ecosystem—connecting executive leadership, framework architecture, enterprise implementation, and professional publications into a unified body of knowledge.
 
 ---
 
@@ -371,7 +360,7 @@ Future reference implementations will extend Enterprise Decision Engineering int
 
 Each implementation will demonstrate how Enterprise Decision Engineering can be adapted to solve complex enterprise challenges while preserving the same governed engineering principles.
 
-As the CareerOS ecosystem continues to evolve, additional enterprise software, executive publications, engineering standards, educational resources, and intelligent decision systems will further expand the discipline.
+As the CareerOS ecosystem continues to evolve, additional enterprise software, executive publications, educational resources, intelligent decision systems, and professional consulting services will continue expand the discipline of Enterprise Decision Engineering.
 
 ---
 
