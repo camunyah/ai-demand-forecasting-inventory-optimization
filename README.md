@@ -360,7 +360,7 @@ Future reference implementations will extend Enterprise Decision Engineering int
 
 Each implementation will demonstrate how Enterprise Decision Engineering can be adapted to solve complex enterprise challenges while preserving the same governed engineering principles.
 
-As the CareerOS ecosystem continues to evolve, additional enterprise software, executive publications, educational resources, intelligent decision systems, and professional consulting services will continue expand the discipline of Enterprise Decision Engineering.
+As the CareerOS ecosystem continues to evolve, additional enterprise software, executive publications, educational resources, intelligent decision systems, and professional consulting services will continue to expand the discipline of Enterprise Decision Engineering.
 
 ---
 
